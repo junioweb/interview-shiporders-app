@@ -12,6 +12,8 @@ App Client to consume Upload Api -> interview-shiporders, https://github.com/jun
 
 To test follow the following instructions:
 
+Install dependencies with the command: `npm install` or `yarn install`
+
 After the app interview-shiporders is fully operational, enter the following command: `npm start` or `yarn start`.
 
 Access will be made by the route `http://localhost:3000` and the authentication is in the background with fixed data, only for testing.
